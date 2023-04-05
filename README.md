@@ -3,11 +3,12 @@
 ## 2.Rasterization-Line
 midpoint & anti-aliasing
 ## 3.Rasterizing polygons
-scanline algorithms
+scanline algorithms & color interpolation
 ## 4.Arbitrary Rotation
 ## 5.DrawShadow
-## 6.Animation
-## 7.final
+## 6.Lighting and Subdivion
+## 7.Animation
+## 8.final
 OBJ parser  
 Texture  
 Animation  
