@@ -9,7 +9,7 @@ scanline algorithms & color interpolation
 ## 4.Arbitrary Rotation
 實現對模型進行任意的旋轉變換，從而實現對場景中物體的3D空間操作。
 ## 5.DrawShadow
-計算並繪製物體的陰影，這將增強場景的真實感和深度感。
+計算並繪製物體的陰影，增強場景的真實感和深度感。
 ## 6.Lighting and Subdivion
 學習了如何實現燈光效果以及對模型進行細分，從而增強模型的細節和渲染效果。
 ## 7.Animation
