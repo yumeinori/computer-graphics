@@ -4,7 +4,7 @@
 ## 2.Rasterization-Line
 使用中點演算法實現線段的光柵化（Rasterization），同時還加入了反鋸齒技術，確保線段在渲染時不會出現鋸齒狀的邊緣，從而改善圖像品質。
 ## 3.Rasterizing polygons
-scanline algorithms & color interpolation
+scanline algorithms & color interpolation  
 將多邊形進行光柵化，並使用掃描線演算法和顏色插值實現多邊形的填充，以及在多邊形內部實現順暢的顏色過渡。
 ## 4.Arbitrary Rotation
 實現對模型進行任意的旋轉變換，從而實現對場景中物體的3D空間操作。
