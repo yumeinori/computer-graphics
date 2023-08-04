@@ -1,5 +1,6 @@
 # computer-graphics
 ## 1.2D grid
+實現一個基本的 2D 網格系統，為後續的繪製和渲染提供基礎。
 ## 2.Rasterization-Line
 使用中點演算法實現線段的光柵化（Rasterization），同時還加入了反鋸齒技術，確保線段在渲染時不會出現鋸齒狀的邊緣，從而改善圖像品質。
 ## 3.Rasterizing polygons
